@@ -1,7 +1,5 @@
 # Diabetic Retinopathy Screening Using A Two-Stage Deep Convolutional Neural Network
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Diabetic+Retinopathy+Screening)
-
 This repository contains the implementation and documentation for the project "Diabetic Retinopathy Screening Using A Two-Stage Deep Convolutional Neural Network".
 
 ## Table of Contents
@@ -10,7 +8,6 @@ This repository contains the implementation and documentation for the project "D
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Documentation](#documentation)
-- [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
@@ -53,9 +50,6 @@ Detailed usage instructions can be found in the `README` files within the extrac
 ## Documentation
 Refer to the `FINAL YEAR PAPER IEEE FORMAT.pdf` for a comprehensive overview of the project, including methodology, results, and conclusions.
 
-## Contributing
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -63,4 +57,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks to the contributors and collaborators.
 - References to any external libraries or datasets used.
 
-![Footer Image](https://via.placeholder.com/1200x200.png?text=Thank+You+for+Visiting)
